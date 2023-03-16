@@ -1,7 +1,7 @@
 # Домашние задания на курсе «Продвинутый Python»
 
 ## Профессиональная работа с Python.
-1. [Модули, пакеты, импорты в Python](/DZ_lecture_1.Import.Module.Package)  
+1. [Модули, пакеты, импорты в Python](DZ_lecture_1. Import. Module. Package/)  
 2. []()    
 3. []() 
 
